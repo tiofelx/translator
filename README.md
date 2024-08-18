@@ -26,3 +26,5 @@ pip install googletrans==4.0.0-rc1
 ```bash
 python Translator.py
 ```
+## Contribuição
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues e pull requests.
