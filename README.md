@@ -20,3 +20,6 @@ Este programa utiliza a biblioteca `googletrans` para acessar o serviço de trad
 
 ```bash
 pip install googletrans==4.0.0-rc1
+```
+
+## Execute o programa
