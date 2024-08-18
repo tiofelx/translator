@@ -23,3 +23,6 @@ pip install googletrans==4.0.0-rc1
 ```
 
 ## Execute o programa
+```bash
+python Translator.py
+```
